@@ -1,0 +1,8 @@
+setup.py
+sound_converter/__init__.py
+sound_converter/sound_converter.py
+sound_converter.egg-info/PKG-INFO
+sound_converter.egg-info/SOURCES.txt
+sound_converter.egg-info/dependency_links.txt
+sound_converter.egg-info/entry_points.txt
+sound_converter.egg-info/top_level.txt

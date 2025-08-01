@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: sound_converter
+Version: 0.1
+Summary: A utility to convert files using ffmpeg.
+Author: jtsoco
+Dynamic: author
+Dynamic: summary
