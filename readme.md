@@ -1,5 +1,15 @@
 ### Setup (on Mac)
 
+ffmpeg is required for this project.
+
+Install ffmpeg
+
+```bash
+# If using Homebrew
+brew install ffmpeg
+
+```
+
 Clone the repo
 
 ```bash
