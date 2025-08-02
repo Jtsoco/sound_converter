@@ -13,7 +13,7 @@ brew install ffmpeg
 Clone the repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Jtsoco/sound_converter
 ```
 
 Setup venv, then install with pip.
